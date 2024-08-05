@@ -6,7 +6,8 @@ How to run the scripts on windows
 
 in Windows Powershell:
 
-- `git clone https://github.com/MikeBirdTech/automations.git && cd automations`
+- `git clone https://github.com/MikeBirdTech/automations.git`
+- `cd automations`
 - `python -m venv venv`
 - `./venv/Scripts/activate`
 - `pip install groq`
